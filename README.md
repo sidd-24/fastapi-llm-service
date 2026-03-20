@@ -1,3 +1,5 @@
+![CI](https://github.com/sidd-24/fastapi-llm-service/actions/workflows/ci.yml/badge.svg)
+
 # ⚡ FastAPI LLM Microservice
 
 A production-ready REST API that wraps Groq LLM for text summarization and classification. Built to show how AI can be integrated into real systems as a callable service rather than a standalone app.
